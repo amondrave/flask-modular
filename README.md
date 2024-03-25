@@ -7,8 +7,8 @@ Este es un proyecto de inventario.
 1. Moverse a la carpeta del proyecto:
 
    ```sh
-   cd /inventario
-  ```
+     cd /inventario
+   ```
 
 2. Crear el entorno virtual
 
