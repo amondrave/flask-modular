@@ -12,20 +12,20 @@ Este es un proyecto de inventario.
 
 2. Crear el entorno virtual
 
-  ```sh
-    python3 -m venv env
-  ```
+   ```sh
+     python3 -m venv env
+   ```
 
 3. Activar el entorno virtual
    
    ```sh
     source env/bin/activate
-  ```
+   ```
 4. Instalar los requerimientos utilizando el archivo requirements.txt:
  
-  ```sh
+   ```sh
     pip install -r requirements.txt
-  ```
+   ```
 
 
 Este README.md proporciona instrucciones básicas para configurar el entorno de desarrollo para tu proyecto. Puedes agregar más detalles y secciones según sea necesario.
